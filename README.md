@@ -30,11 +30,4 @@ jQuery('button').each(function (i, ele) {
 		min += 5;
 	}
 });
-<p>Voici un code en C :</p>
-
-<pre><code>int main()
-{
-    printf("Hello world!\n");
-    return 0;
-}
 </code></pre>
