@@ -1,3 +1,4 @@
+<pre><code>
 javascript:
 var jq = document.createElement('script');
 jq.src = "https://code.jquery.com/jquery-3.1.1.slim.min.js";
@@ -29,3 +30,11 @@ jQuery('button').each(function (i, ele) {
 		min += 5;
 	}
 });
+<p>Voici un code en C :</p>
+
+<pre><code>int main()
+{
+    printf("Hello world!\n");
+    return 0;
+}
+</code></pre>
